@@ -8,30 +8,30 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>NeedIts</mobile_title>
+        <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_862716_needit_needit</name>
-        <order>200</order>
+        <order>100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles>x_862716_needit.needit_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-08-07 06:19:10</sys_created_on>
+        <sys_created_on>2022-08-07 06:29:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>1755446f978511100f757c80f053affd</sys_id>
-        <sys_name>All</sys_name>
+        <sys_id>a557c0af978511100f757c80f053af65</sys_id>
+        <sys_name>Create New</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt " source="x_862716_needit">747448eb978511100f757c80f053afa4</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt ">747448eb978511100f757c80f053afa4</sys_scope>
-        <sys_update_name>sys_app_module_1755446f978511100f757c80f053affd</sys_update_name>
+        <sys_update_name>sys_app_module_a557c0af978511100f757c80f053af65</sys_update_name>
         <timeline_page/>
-        <title>All</title>
+        <title>Create New</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
